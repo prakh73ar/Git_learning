@@ -9,3 +9,6 @@ fourth bug fix.
 Fifth bug fix.
 
 another fix message for pink mode
+
+
+another fixes for purple mode
